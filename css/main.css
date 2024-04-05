@@ -1,0 +1,52 @@
+/* Place CSS styles here */
+
+body {
+    background-color: #F5E3E0;
+    color: #45506B;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+}
+
+h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 16px;
+}
+h4
+{
+    font-family: "Playfair Display", serif;
+    font-size: 16px; 
+}
+
+p
+{
+    font-family: "Raleway", sans-serif;
+    font-size: 14px; 
+}
+
+li {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px; 
+}
+
+a:link {
+    color:#525c77
+}
+a:visited {
+    color:#525c77
+}
+a:active {
+    color:#525c77
+}
+a:hover {
+    color:#101351
+}
