@@ -9,7 +9,9 @@ section {
     justify-content: center;
 }
 .intro_content {
-    margin-top: 20px;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
 }
 
 body {
