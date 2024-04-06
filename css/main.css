@@ -2,11 +2,6 @@
 
 
 
-.msg { padding: 10px; background: #F5E3E0; position: relative; }
-.msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
-.msg a:hover { background: #266400; }
-
 body {
     background-color: #F5E3E0;
     color: #45506B;
