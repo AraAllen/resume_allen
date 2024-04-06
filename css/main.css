@@ -1,8 +1,12 @@
 /* Place CSS styles here */
 
 section {
-    margin-left: 20px;
-    margin: 10px 10px 10px; 
+    margin: 10px 50px 10px; 
+}
+
+.white_fox {
+    display: flex;
+    margin: 40px; 
 }
 
 body {
@@ -10,7 +14,6 @@ body {
     color: #45506B;
     font-family: "Raleway", sans-serif;
     font-size: 16px;
-
 }
 
 h1{
