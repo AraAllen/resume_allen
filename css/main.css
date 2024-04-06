@@ -19,10 +19,6 @@ section {
 
 .about_me {
     display: flex;
-
-}
-.about_me_content {
-    disp
 }
 
 body {
@@ -40,6 +36,7 @@ h1{
 h2 {
     font-family: "Playfair Display", serif;
     font-size: 18px;
+    display: block;
 }
 
 h3 {
