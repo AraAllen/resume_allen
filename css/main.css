@@ -6,7 +6,10 @@ section {
 
 .white_fox {
     display: grid;
-    grid-template-columns: 1fr 1fr 1ft 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     grid-gap: 4px;
     width:fit-content; 
 }
@@ -24,7 +27,7 @@ section {
 }
 .about_me {
     display: grid;
-    grid-template-columns: 1fr 1fr 1ft 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 4px;
     width:100%; 
 }
