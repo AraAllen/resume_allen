@@ -47,8 +47,13 @@ section {
     
 .education {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr
-    
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap: 4px;
+    width:fit-content; 
+
 }
 
 .education_title {
