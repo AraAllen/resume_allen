@@ -151,6 +151,35 @@ section {
     grid-column-end: 7;
 }
 
+.publication {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap: 4px;
+    width:min-content; 
+
+}
+
+.publication_title {
+    grid-column-start:1;
+    grid-column-end:2;
+}
+
+.publication_content {
+    grid-column-start: 2;
+    grid-column-end: 7;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap: 4px;
+    width:min-content; 
+}
+
+
 
 body {
     background-color: #F5E3E0;
