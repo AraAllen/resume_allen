@@ -1,12 +1,16 @@
 /* Place CSS styles here */
 
-
+.intro {
+    margin-left: 20px;
+    margin: 10px 10px 10px; 
+}
 
 body {
     background-color: #F5E3E0;
     color: #45506B;
     font-family: "Raleway", sans-serif;
     font-size: 16px;
+
 }
 
 h1{
@@ -53,9 +57,4 @@ a:hover {
     color:#101351
 }
 
-main {
-    flex: 1;
-    background: lightgreen;
-  }
-  
     
