@@ -12,7 +12,7 @@ section {
     display: flex;
     align-items: baseline;
     flex-direction: column;
-    gap: 10px;
+    gap: 0px;
     
 }
 
