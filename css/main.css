@@ -23,7 +23,10 @@ section {
     min-width: 400px;
 }
 .about_me {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1ft 1fr 1fr 1fr;
+    grid-gap: 4px;
+    width:100%; 
 }
 
 body {
