@@ -28,8 +28,9 @@ section {
 .about_me {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    column-width: 100px;
+  
     max-width: 1000px;
+    column-width: 100px;
     margin-left: auto;
     margin-right: auto;
     grid-gap: 10px;
