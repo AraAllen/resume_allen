@@ -12,7 +12,7 @@ section {
     margin-left: auto;
     margin-right: auto;
     grid-gap: 4px;
-    width:fit-content; 
+    width:min-content; 
 }
 
 .logo {
@@ -33,7 +33,7 @@ section {
     margin-left: auto;
     margin-right: auto;
     grid-gap: 4px;
-    width:fit-content; 
+    width:min-content; 
 }
 
 .about_me_title {
@@ -53,7 +53,7 @@ section {
     margin-left: auto;
     margin-right: auto;
     grid-gap: 4px;
-    width:fit-content; 
+    width:min-content; 
 
 }
 
