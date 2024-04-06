@@ -9,10 +9,11 @@ section {
     justify-content: center;
 }
 .intro_content {
-    display: flex;
-    align-items: baseline;
+    isplay: flex;
+    align-items: flex-start;
     flex-direction: column;
     gap: 0px;
+    justify-content: center;
     
 }
 
