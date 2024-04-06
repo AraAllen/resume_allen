@@ -10,9 +10,9 @@ section {
 }
 .intro_content {
     display: flex;
-    align-items: flex-start;
+    align-items: baseline;
     flex-direction: column;
-    gap: 0px;
+    gap: 10px;
     
 }
 
