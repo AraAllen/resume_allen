@@ -130,6 +130,28 @@ section {
     grid-column-end: 7;
 }
 
+.honors {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap: 4px;
+    width:min-content; 
+
+}
+
+.honors_title {
+    grid-column-start:1;
+    grid-column-end:2;
+}
+
+.honors_content {
+    grid-column-start: 2;
+    grid-column-end: 7;
+}
+
+
 body {
     background-color: #F5E3E0;
     color: #45506B;
