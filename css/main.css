@@ -2,6 +2,7 @@
 
 section {
     margin: 10px 50px 10px; 
+ justify-items: left;
 }
 
 .white_fox {
