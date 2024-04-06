@@ -8,7 +8,7 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 4px;
-    width: calc(400px + 12px + 4.4rem);
+    width:fit-content 
 }
 
 .about_me {
