@@ -28,8 +28,11 @@ section {
 .about_me {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 4px;
-    width:100%; 
+    min-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap: 10px;
+
 }
 
 .about_me_content {
