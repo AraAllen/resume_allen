@@ -7,6 +7,9 @@ section {
 .white_fox {
     display: flex;
 }
+.intro_content {
+    margin-top: 20px;
+}
 
 body {
     background-color: #F5E3E0;
