@@ -18,7 +18,9 @@ section {
 
 .intro_content {
     grid-column-start: 3;
-    grid-column-end: 6
+    grid-column-end: 6;
+    margin-top: 50px;
+    min-width: 400px;
 }
 .about_me {
     display: flex;
