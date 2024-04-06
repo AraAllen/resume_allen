@@ -27,9 +27,8 @@ section {
 }
 .about_me {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  
-    max-width: 1000px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    min-width: 1000px;
     column-width: 100px;
     margin-left: auto;
     margin-right: auto;
