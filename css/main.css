@@ -10,14 +10,6 @@ section {
     grid-gap: 4px;
     width: calc(400px + 12px + 4.4rem);
 }
-.intro_content {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 0px;
-    justify-content: center;
-    
-}
 
 .about_me {
     display: flex;
