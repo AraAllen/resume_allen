@@ -29,10 +29,10 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     min-width: 1000px;
-    column-width: 100px;
     margin-left: auto;
     margin-right: auto;
-    grid-gap: 10px;
+    grid-gap: 4px;
+    width:fit-content; 
 }
 
 .about_me_title {
