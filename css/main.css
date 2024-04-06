@@ -37,14 +37,18 @@ section {
 .about_me_title {
     grid-column-start:1;
     grid-column-end:2;
-    width: 100%;
+    min-width: 100px
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 .about_me_content {
     grid-column-start: 2;
     grid-column-end: 7;
-    min-width: 300px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
     
 
