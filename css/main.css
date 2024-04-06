@@ -5,8 +5,10 @@ section {
 }
 
 .white_fox {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 4px;
+    width: calc(400px + 12px + 4.4rem);
 }
 .intro_content {
     display: flex;
